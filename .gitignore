@@ -1,0 +1,4 @@
+venv
+*.dconf
+*.conf
+*.json
